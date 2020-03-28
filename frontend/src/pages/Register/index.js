@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useHistory } from "react-router-dom";
 import { FiArrowLeft } from "react-icons/fi";
 
-import "./styles.css";
+import "./style.css";
 
 import api from "../../services/api";
 

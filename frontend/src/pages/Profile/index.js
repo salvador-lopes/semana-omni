@@ -3,7 +3,7 @@ import logoImg from "../../assets/logo.svg";
 import { Link, useHistory } from "react-router-dom";
 import { FiPower, FiTrash2 } from "react-icons/fi";
 import api from "../../services/api";
-import "./styles.css";
+import "./style.css";
 
 export default function Profile() {
   const [incidents, setIncidents] = useState([]);

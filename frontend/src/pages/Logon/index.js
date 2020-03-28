@@ -6,7 +6,7 @@ import heroesImg from "../../assets/heroes.png";
 import logoImg from "../../assets/logo.svg";
 import api from "../../services/api";
 
-import "./styles.css";
+import "./style.css";
 
 export default function Logon() {
   const [id, setId] = useState('');
